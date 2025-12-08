@@ -1,8 +1,7 @@
-# Tremor – Solar
+# Solar Project
 
-`Solar` is a website template from [Tremor](https://tremor.so). It's built
-using [`Tremor`](https://tremor.so/docs/getting-started/installation) and
-[Next.js](https://nextjs.org).
+`Solar` is a website template for Solar Project Perlis . It's built
+using [Next.js](https://nextjs.org).
 
 ## Getting started
 
@@ -28,14 +27,11 @@ This project uses
 [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to
 automatically optimize and load Inter, a custom Google Font.
 
-This project uses
-[`Tremor`](https://raw.tremor.so/docs/getting-started/installation) components
-for the UI.
 
 ## License
 
 This site template is a commercial product and is licensed under the
-[Tremor License](https://blocks.tremor.so/license).
+[Tremor License](https://tremor.so/license).
 
 ## Learn more
 
