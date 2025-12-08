@@ -1,4 +1,4 @@
-# Solar Project
+# Solar Jaya
 
 `Solar` is a website template for Solar Project Perlis . It's built
 using [Next.js](https://nextjs.org).
